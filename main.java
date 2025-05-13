@@ -6,6 +6,11 @@ public class main{
         cartao.clone();
         cartao.exibirInformacoes();
 
+        cartao.setNome("Alexandre");
+        cartao.setTelefone("200000");
+        cartao.exibirInformacoes();
+
+
     }
     
 
